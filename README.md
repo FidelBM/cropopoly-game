@@ -20,6 +20,6 @@ Si quieres ver cómo se ejecuta el juego, puedes acceder al siguiente enlace: [C
 ### Notas Adicionales
 
 - **Soporte**: Para cualquier problema técnico o consulta, no dudes en ponerte en contacto con el equipo de desarrollo.
-- **Compativilidad**: No olvides que el juego esta disponible tanto para telefonos como computadoras para poder disfurtar en cualquier mometno y en cualquier plataforma.
+- **Compativilidad**: No olvides que el juego esta disponible tanto para telefonos como computadoras para poder disfurtar en cualquier momento y en cualquier plataforma.
 
 ¡Esperamos que disfrutes jugando a Cropopoly tanto como nosotros disfrutamos creándolo!
